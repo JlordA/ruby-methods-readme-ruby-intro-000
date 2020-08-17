@@ -2,4 +2,4 @@ def greetings
   puts "Hello World"
 end
 
-greeting
+greetings
